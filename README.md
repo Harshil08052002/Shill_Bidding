@@ -1,5 +1,5 @@
 🛡️ Detecting Shill Bidding in Online Auctions
-A Predictive Model Approach | Final Project - Business Analytics
+A Predictive Model Approach | Business Analytics
 
 📌 Project Overview
 Shill bidding is a form of auction fraud where sellers place fake bids to inflate prices, misleading genuine buyers. This project aims to detect and prevent shill bidding using predictive modeling and machine learning algorithms.
